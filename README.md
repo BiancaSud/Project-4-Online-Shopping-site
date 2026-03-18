@@ -1,2 +1,2 @@
 # MoreShopping_site
-This is an online clothing shop I invented and tried to look accurate like anothers. This is just a start, so we have  there the homepage only. 
+See it on live! https://biancasud.github.io/Project-4-Online-Shopping-site/
